@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720093862967",
+    "project_id": "pet-homes-65bb7",
+    "storage_bucket": "pet-homes-65bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720093862967:android:1d40834ba56a392268f3b2",
+        "android_client_info": {
+          "package_name": "com.pethomes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720093862967-1ejmhsr9ajkkhq7ad1iin3501seh00pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-tserLSOcYN8Gx438h2oKHT5x8SWrlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720093862967-1ejmhsr9ajkkhq7ad1iin3501seh00pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
